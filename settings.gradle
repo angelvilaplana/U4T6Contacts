@@ -1,0 +1,4 @@
+include ':app-guided'
+include ':app-guided'
+include ':app'
+rootProject.name = "U4T6Contacts"
